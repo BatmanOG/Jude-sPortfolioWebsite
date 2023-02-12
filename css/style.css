@@ -160,6 +160,13 @@ body {
     padding: 30px;
     margin: auto;
   }
+  .button{
+    display: flex;
+    text-align: var(--text-align);
+    max-width: 750px;
+    padding: 30px;
+    margin: auto;
+  }
   .contact-info{
     display: inline;
     text-align: var(--text-align);
