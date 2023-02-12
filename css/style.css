@@ -161,7 +161,8 @@ body {
     margin: auto;
   }
   .about_buttons{
-    float: center;    
+    display: flex;
+    align-items: center;    
     max-width: 500px;
     padding: 30px;
     margin: auto;
